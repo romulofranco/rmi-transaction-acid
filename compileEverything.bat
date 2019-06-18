@@ -1,0 +1,1 @@
+javac src/br/ifsul/romulo/rmiinterface/RMIInterface.java src/br/ifsul/romulo/rmiserver/ServerOperation.java src/br/ifsul/romulo/rmiclient/ClientOperation.java
